@@ -7,7 +7,7 @@ Segurança da Informação, Cybersegurança e Lei Geral de Proteção de Dados(L
 # Coordenadores 
 
 * Aquiles Burlamaqui
-* Igor Rosbergue
+* Igor Rosberg
 
 
 # Módulos 
